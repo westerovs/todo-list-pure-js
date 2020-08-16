@@ -29,7 +29,7 @@ html, body {
 
 .header__title {
   font-weight: 900;
-  font-size: 60px;
+  font-size: 50px;
   text-align: center;
 }
 
@@ -72,7 +72,7 @@ html, body {
   padding: 0;
 }
 
-.todo {
+.todo__item {
   display: flex;
   padding: 20px;
   align-items: center;
@@ -86,9 +86,9 @@ html, body {
   margin-bottom: 0;
 }
 
-.todo__text{
+.todo__text {
   font-weight: 900;
-  font-size: 24px;
+  font-size: 20px;
   line-height: 29px;
   color: #FFFFFF;
   margin: 0;
@@ -111,7 +111,7 @@ html, body {
 
 .footer {
   padding: 50px;
-  font-size: 18px;
+  font-size: 16px;
   text-align: center;
   color: #898989;
 }
