@@ -69,7 +69,7 @@ function createTodo(text) {
   todosListElement.append(todo);
 }
 
-// кнопка добавить и проверка редактирование, или нет 
+// кнопка добавить и проверка редактирование, или нет
 function handleFormSubmit(event) {
   event.preventDefault();
 
